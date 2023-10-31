@@ -3,8 +3,6 @@
 </br>
 <img align="right" alt="Coding" width="450" src=https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dragosmoro&label=Profile%20views&color=0e75b6&style=flat" alt="dragosmoro" /> </p>
-
 - 🔭 I’m currently working on [TrabaGo](https://github.com/DragosMoro/trabago-app)
 
 - 🌱 I’m currently learning **Next.js, TypeScript**
