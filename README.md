@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dragoș Morozan</h1>
 <h3 align="center">Final-year Computer Science student with a passion for coding and exploring endless possibilities.</h3>
-
-<img align="right" alt="Coding" width="400" src=https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif>
+</br>
+<img align="right" alt="Coding" width="500" src=https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dragosmoro&label=Profile%20views&color=0e75b6&style=flat" alt="dragosmoro" /> </p>
 
