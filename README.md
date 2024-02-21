@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java, JavaScript, React.js, Python, C++**
 
-- 📫 How to reach me **dragosmorozan@gmail.com**
+- 📫 Reach me at **dragosmorozan@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
