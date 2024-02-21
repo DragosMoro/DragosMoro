@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **dragosmorozan@gmail.com**
 
-- ⚡ Fun fact: **I can recognize the flags of all the states.**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
