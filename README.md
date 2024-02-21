@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js, TypeScript**
 
-- 👨‍💻 All of my projects are available at [here](https://github.com/DragosMoro)
+- 👨‍💻 All of my projects are available [here](https://github.com/DragosMoro)
 
 - 💬 Ask me about **Java, JavaScript, React.js, Python, C++**
 
